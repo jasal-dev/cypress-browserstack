@@ -1,0 +1,23 @@
+{
+  "name": "cypress-browserstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasal-dev/cypress-browserstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasal-dev/cypress-browserstack/issues"
+  },
+  "homepage": "https://github.com/jasal-dev/cypress-browserstack#readme",
+  "devDependencies": {
+    "browserstack-cypress-cli": "^1.31.5",
+    "cypress": "^13.14.0"
+  }
+}

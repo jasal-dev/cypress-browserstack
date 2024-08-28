@@ -1,0 +1,16 @@
+{
+    "auth": {
+      "username": "redacted",
+      "access_key": "redacted"
+    },
+    "run_settings": {
+      "cypress_config_file": "./cypress.config.js"
+    },
+    "testObservability": true,
+    "browserstackAutomation": false,
+    "testObservabilityOptions": {
+      "projectName": "Cypress Demo",
+      "buildName": "cypress-build",
+      "buildTag": ["Custom Tag 1", "Custom Tag 2"]
+    }
+  }
